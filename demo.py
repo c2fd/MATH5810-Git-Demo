@@ -11,5 +11,12 @@ def myfunc():
 def myNewfunc():
 	pass
 
+
 def f_master():
+	pass
+	
+def helpme():
+	pass
+
+def f3():
 	pass
