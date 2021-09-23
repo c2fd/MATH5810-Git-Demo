@@ -7,3 +7,7 @@ class MyVec:
 
 def myfunc():
 	pass
+
+
+def help():
+	return myfunc()
