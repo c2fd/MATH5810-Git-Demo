@@ -7,3 +7,6 @@ class MyVec:
 
 def myfunc():
 	pass
+
+def myNewfunc():
+	pass
