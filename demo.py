@@ -10,3 +10,6 @@ def myfunc():
 
 def myNewfunc():
 	pass
+
+def f_master():
+	pass
