@@ -10,3 +10,9 @@ def myfunc():
 
 def myNewfunc():
 	pass
+
+def helpme():
+	pass
+
+def f3():
+	pass
