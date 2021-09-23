@@ -6,7 +6,7 @@ class MyVec:
 		pass
 
 def myfunc():
-	pass
+	return 3 + 4
 
 
 def help():
