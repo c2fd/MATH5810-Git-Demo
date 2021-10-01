@@ -20,3 +20,6 @@ def helpme():
 
 def f3():
 	pass
+
+def myNewfunc():
+	pass
